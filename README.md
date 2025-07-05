@@ -14,7 +14,7 @@
 
 ---
 
-<img width="1437" height="809" alt="Image" src="https://github.com/user-attachments/assets/33b2451b-ac7d-4832-8761-0f149b9ba4bb" />
+<img width="1437" height="809" alt="Image" src="https://github.com/user-attachments/assets/1b21e3ce-42bf-4f55-8fa7-b1f52db5a6f7" />
 
 # ✈️ **US Flights Dashboard — 2015 Performance Analysis**
 
